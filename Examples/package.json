@@ -1,0 +1,22 @@
+{
+  "name": "fiestnodeproject",
+  "version": "1.0.0",
+  "description": "new node project",
+  "main": "ex01.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine test/*.spec.js",
+    "start" : "ex01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryaveer01/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
